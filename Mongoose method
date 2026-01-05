@@ -1,0 +1,5 @@
+Operation Mongoose Method Purpose
+Create User.create(data) Saves a new user to the collection.
+Read User.find() Retrieves all users.
+Update User.findByIdAndUpdate(id, data) Finds one user and modifies their info.
+Delete User.findByIdAndDelete(id) Removes
